@@ -9,7 +9,8 @@ POR JOSE FRANCO NIETO
 ---
 
 - Crear repositorio: git init
-- Borrar archivos de git :rm -rf .git
+- Borrar archivos de git : rm -rf .git
+
 
 - Agrega a la Staging Area : git add .
 - Commitear: git commit -m "primer commit"
