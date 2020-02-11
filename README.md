@@ -7,7 +7,9 @@ POR JOSE FRANCO NIETO
 
 # Esenciales
 ---
+
 - Crear repositorio: git init
+- Borrar archivos de git :rm -rf .git
 
 - Agrega a la Staging Area : git add .
 - Commitear: git commit -m "primer commit"
