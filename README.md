@@ -53,6 +53,10 @@ POR JOSE FRANCO NIETO
 
 - revisar cambios antes de fusionar : git diff <source_branch	> <target_branch>
 
+# Eliminar
+---
+- rm -rf .git :eliminar repositorio
+
 # Notacion para escribir en el readme.md
 ---
 - # nombre : Para poner mayusculas(titulo)
