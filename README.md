@@ -22,6 +22,8 @@ POR JOSE FRANCO NIETO
 - Cambiar de rama: git checkout
 - Crear rama local: git checkout -b nombreRama
 - Crear rama remota:git push -u origin nombreRama
+- Renombrar rama: git branch -m viejaRama nuevaRama
+
 
 - Actualizar rama: git pull origin formacionOct19
 
